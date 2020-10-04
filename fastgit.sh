@@ -3,7 +3,7 @@
 LINK="https://github.com/"
 echo "Postionals Parameters"
 echo $LINK
-echo '$1 = ' $1
-echo '$2 = ' $2
-echo 'Clone' $1 $2
+echo 'User ' $1
+echo 'Repository ' $2
+echo 'Branch ' $3
 git clone -b $3 $LINK$1"/"$2

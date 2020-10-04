@@ -1,4 +1,4 @@
 # gitek.sh Usage
 Use git clone with simple script
-- Just ./gitek.sh [user] [repository] [branch]
+- Go to directory and write in terminal ./fastgit.sh [user] [repository] [branch]
 

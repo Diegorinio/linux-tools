@@ -1,0 +1,5 @@
+# gitek.sh Usage
+Use git clone with simple script
+- Just ./fastgit
+.sh [user] [repository] [branch]
+
