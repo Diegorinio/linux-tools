@@ -1,4 +1,5 @@
-# gitek.sh Usage
+# fastgit Usage
 Use git clone with simple script
-- Go to directory and write in terminal ./fastgit.sh [user] [repository] [branch]
+- Place fastgit file in /usr/bin
+- Go to directory and type in terminal fastgit [user] [repository] [branch]
 
