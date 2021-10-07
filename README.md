@@ -10,4 +10,8 @@ Simple script to convert file for Davinci Resolve
 - Place simple-converter file in /usr/bin
 - Go to directory and type in terminal simple-converter [input file name] [output file name] [output file format]
 
-
+# mysqlmanager Usage
+Use script to start/stop/restart mysql
+- You need mysql-server installed
+- Place mysqlmanager file in /usr/bin
+- type in terminal mysqlmanager [option]
